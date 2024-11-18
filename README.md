@@ -3,8 +3,8 @@
 🌱 I’m currently learning and working with Swift, Spring, MySQL, and .NET.  
 💞️ I’m looking to collaborate on backend projects, database management, or full-stack applications.  
 📫 How to reach me:  
-   - E-mail: enesskaydi@example.com  
-   - LinkedIn: 
+   - E-mail: enesskaydi@gamail.com
+   - LinkedIn: https://www.linkedin.com/in/muhammed-enes-kaydi-0590b3254/
    - Twitter: @enessKaydi  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I enjoy reading books, listening to piano music, and drinking tea. ☕  
