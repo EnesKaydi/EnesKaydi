@@ -43,7 +43,7 @@ Aynı zamanda akademik düzeyde **Makine Öğrenmesi** üzerine çalışmalar y�
 ### 📫 Benimle İletişime Geçin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-enes-kaydi-0590b3254/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enesizzet4646@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enesskaydi4646@gmail.com)
 
 ---
 
