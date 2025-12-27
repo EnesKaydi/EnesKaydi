@@ -33,8 +33,8 @@ Aynı zamanda akademik düzeyde **Makine Öğrenmesi** üzerine çalışmalar y�
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_KULLANICI_ADINIZ]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_KULLANICI_ADINIZ]&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[EnesKaydi]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[EnesKaydi]&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
