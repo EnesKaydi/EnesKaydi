@@ -1,4 +1,4 @@
-# Selam! Ben [Muhammed Enes Kaydı] 👋
+# Selam! Ben Muhammed Enes Kaydı 👋
 
 ### 🚀 Full-Stack Geliştirici & Makine Öğrenmesi Araştırmacısı
 
