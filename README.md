@@ -24,9 +24,8 @@ Aynı zamanda akademik düzeyde **Makine Öğrenmesi** üzerine çalışmalar y�
 ---
 
 ### 🎓 Makine Öğrenmesi & Tez Çalışmam
-Şu anda **[Tez Başlığınız veya Konunuz]** üzerine yoğunlaşmış durumdayım. Bu çalışmamda:
+Şu anda **[Yapay Zeka Destekli Hukuk Asistanı]** üzerine yoğunlaşmış durumdayım. Bu çalışmamda:
 - 📊 Büyük veri setleri üzerinde modelleme ve optimizasyon,
-- 🤖 [Kullandığınız Algoritma Örn: CNN, RNN veya Random Forest] yaklaşımları,
 - 📈 Teorik bilginin pratik yazılım mimarilerine entegrasyonu üzerine çalışıyorum.
 
 ---
