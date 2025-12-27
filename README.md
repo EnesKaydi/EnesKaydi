@@ -33,17 +33,17 @@ Aynı zamanda akademik düzeyde **Makine Öğrenmesi** üzerine çalışmalar y�
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[EnesKaydi]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[EnesKaydi]&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EnesKaydi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesKaydi&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
 ### 📫 Benimle İletişime Geçin
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINKEDIN_LINKINIZ])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL_ADRESINIZ])
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([VARSA_PORTFOLYO_LINKINIZ])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/muhammed-enes-kaydi-0590b3254/)])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enesskaydi@gmail.com)
+
 
 ---
 <p align="center">
