@@ -1,10 +1,52 @@
-👋 Hi, I’m @EnesKaydi  
-👀 I’m interested in backend development but also work with frontend and databases.  
-🌱 I’m currently learning and working with Swift, Spring, MySQL, and .NET.  
-   - E-mail: enesskaydi@gamail.com
-⚡ Fun fact: I enjoy reading books, listening to piano music, and drinking tea. ☕  
+# Selam! Ben [Muhammed Enes Kaydı] 👋
 
-<!---
-EnesKaydi/EnesKaydi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Full-Stack Geliştirici & Makine Öğrenmesi Araştırmacısı
+
+Hem kurumsal backend sistemlerinde (**Java Spring Boot, C#.NET MVC**) hem de modern frontend dünyasında (**Next.js**) deneyim sahibi, bulut bilişim ve konteyner teknolojileriyle (**Docker, Kubernetes**) ölçeklenebilir çözümler üretmeye odaklanmış bir yazılım geliştiriciyim. 
+
+Aynı zamanda akademik düzeyde **Makine Öğrenmesi** üzerine çalışmalar yürütmekteyim.
+
+---
+
+### 🛠️ Teknolojik Yetkinlikler
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nextjs,react,js,ts,python,docker,kubernetes,mysql,postgresql,git,postman" />
+  </a>
+</p>
+
+- **Backend:** Java Spring Boot, .NET MVC, Entity Framework, Microservices
+- **Frontend:** Next.js, React, Tailwind CSS, TypeScript
+- **DevOps & Cloud:** Docker, Kubernetes (K8s), CI/CD Pipelines
+- **Data Science & ML:** Python, Scikit-learn, TensorFlow/PyTorch, Veri Analitiği
+
+---
+
+### 🎓 Makine Öğrenmesi & Tez Çalışmam
+Şu anda **[Tez Başlığınız veya Konunuz]** üzerine yoğunlaşmış durumdayım. Bu çalışmamda:
+- 📊 Büyük veri setleri üzerinde modelleme ve optimizasyon,
+- 🤖 [Kullandığınız Algoritma Örn: CNN, RNN veya Random Forest] yaklaşımları,
+- 📈 Teorik bilginin pratik yazılım mimarilerine entegrasyonu üzerine çalışıyorum.
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_KULLANICI_ADINIZ]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_KULLANICI_ADINIZ]&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Benimle İletişime Geçin
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINKEDIN_LINKINIZ])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL_ADRESINIZ])
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([VARSA_PORTFOLYO_LINKINIZ])
+
+---
+<p align="center">
+  "Kod yazmak bir sanat, ölçeklemek ise bir disiplindir." 💻✨
+</p>
